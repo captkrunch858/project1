@@ -1,3 +1,2 @@
 line1
-new line
 line2
